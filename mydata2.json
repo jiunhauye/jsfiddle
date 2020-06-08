@@ -1,0 +1,31 @@
+[
+    {
+      "id": "J1",
+      "parentIds": []
+    },
+    {
+      "id": "J4",
+      "parentIds": []
+    },
+    {
+      "id": "J2",
+      "parentIds": ["J1"]
+    },
+    {
+      "id": "J3",
+      "parentIds": ["J1","J4"]
+    },
+    {
+      "id": "J5",
+      "parentIds": ["J3","J4"]
+    },
+    {
+      "id": "J6",
+      "parentIds": ["J5","J2"]
+    },
+    {
+      "id": "J7",
+      "parentIds": ["J5"]
+    }
+  ]
+  
