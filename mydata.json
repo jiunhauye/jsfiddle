@@ -13,7 +13,7 @@
     },
     {
       "id": "J3",
-      "parentIds": ["J4"]
+      "parentIds": ["J1","J4"]
     },
     {
       "id": "J5",
